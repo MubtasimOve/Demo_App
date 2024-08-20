@@ -135,3 +135,4 @@ C:\Users\mubta\source\repos\Demo_App\Demo_App\obj\Debug\net8.0\refint\Demo_App.d
 C:\Users\mubta\source\repos\Demo_App\Demo_App\obj\Debug\net8.0\Demo_App.pdb
 C:\Users\mubta\source\repos\Demo_App\Demo_App\obj\Debug\net8.0\Demo_App.genruntimeconfig.cache
 C:\Users\mubta\source\repos\Demo_App\Demo_App\obj\Debug\net8.0\ref\Demo_App.dll
+C:\Users\mubta\source\repos\Demo_App\Demo_App\obj\Debug\net8.0\Demo_App.sourcelink.json

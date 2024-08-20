@@ -23,5 +23,11 @@ namespace Demo_App.Controllers
 
             return View();
         }
+        [HttpPost]
+        public IActionResult Create(Category obj)
+        {
+
+            return View();
+        }
     }
 }
